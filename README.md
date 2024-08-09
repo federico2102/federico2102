@@ -16,7 +16,11 @@
 <h3> 🧰 Languages, Tools, Frameworks </h3>
 
 [![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge)]()
+[![PHP](https://shields.io/badge/-PHP-3776AB?style=for-the-badge&logo=php)]()
+[![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![Python](https://img.shields.io/badge/-python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()
+[![Laravel](https://img.shields.io/badge/Laravel-grey?style=for-the-badge&logo=laravel&logoColor=white)]()
+[![Assembly](https://img.shields.io/badge/-Assembly-000?style=for-the-badge&logo=assemblyscript)]()
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)]()
 [![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)]()
