@@ -2,7 +2,7 @@
 
 <h3> Hi everyone! </h3>
 <ul>
-    <li>I am currently a Computer Science student at the University of Buenos Aires, only one final away from graduation.</li>
+    <li>Studied Computer Science at the University of Buenos Aires for 5 years</li>
     <li>I also contributed at BASF working as a Software Engineer and creating internal solutions and automations. </li>
     <li>Fun fact: I love climbing, skiing and travelling the world.</li>
     <li>Always open to contributing to new exciting projects!</li>
