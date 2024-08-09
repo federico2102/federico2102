@@ -5,12 +5,12 @@
     <li>I am currently a Computer Science student at the University of Buenos Aires, only one final away from graduation.</li>
     <li>I also contributed at BASF working as a Software Engineer and creating internal solutions and automations. </li>
     <li>Fun fact: I love climbing, skiing and travelling the world.</li>
-    <li>Always open to contributing to exciting new projects!</li>
+    <li>Always open to contributing to new exciting projects!</li>
 </ul>
 
 <h3> 📫 Contact </h3>
 
-- Email: **fedeerico2102@gmail.com**
+- Email: **federico2102@gmail.com**
 - LinkedIn: <a href="https://www.linkedin.com/in/federico-hofmann-801463160?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"> /fedehofmann </a>
 
 <h3> 🧰 Languages, Tools, Frameworks </h3>
@@ -21,6 +21,7 @@
 [![Python](https://img.shields.io/badge/-python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]()
 [![Laravel](https://img.shields.io/badge/Laravel-grey?style=for-the-badge&logo=laravel&logoColor=white)]()
 [![Assembly](https://img.shields.io/badge/-Assembly-000?style=for-the-badge&logo=assemblyscript)]()
+[![Matlab](https://img.shields.io/badge/-matlab-orange?style=for-the-badge)]()
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)]()
 [![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/-Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)]()
