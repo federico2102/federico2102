@@ -3,7 +3,7 @@
 <h3> Hi everyone! </h3>
 <ul>
     <li>Studied Computer Science at the University of Buenos Aires for 5 years.</li>
-    <li>I also contributed at BASF working as a Software Engineer and creating internal solutions and automations. </li>
+    <li>I also contributed at BASF, working as a Software Engineer and creating internal solutions and automations. </li>
     <li>Fun fact: I love climbing, skiing and travelling the world.</li>
     <li>Always open to contributing to new exciting projects!</li>
 </ul>
