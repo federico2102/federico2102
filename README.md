@@ -3,7 +3,7 @@
 <h3> Hi everyone! </h3>
 <ul>
     <li>Studied Computer Science at the University of Buenos Aires.</li>
-    <li>Currently working as a blockchain engineer at SenseiNode</li>
+    <li>Currently working as a blockchain engineer at SenseiNode.</li>
     <li>Fun fact: I love climbing, skiing and travelling the world.</li>
     <li>Always open to contributing to new exciting projects!</li>
 </ul>
